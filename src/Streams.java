@@ -65,5 +65,6 @@ public class Streams{
 		.collect(Collectors.toList());
 		
 		System.out.println(cursosFiltrados.size());
+		
 	}
 }
